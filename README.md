@@ -1,4 +1,4 @@
-### Hi there, I am Mei Sun🥰👋
+### Hi there, I am Mei Sun💗👋
 
 <!--
 **meisun0107/meisun0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
