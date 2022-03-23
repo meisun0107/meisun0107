@@ -12,8 +12,8 @@
 - 🔥 Fun fact: I used to study in Sweden for 2 years.
 - 🤙 More about me: 
 [![Linkedin](https://img.shields.io/badge/-Mei_Sun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/mei-sun-b928751a0/)
-![Instagram](https://img.shields.io/badge/-__momosunny-white?style=flat&logo=Instagram&logoColor=white&color=833AB4&link=https://www.instagram.com/_momosunny/)
-![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B&link=mailto:0107sun.mei@gmail.com)
+[![Instagram](https://img.shields.io/badge/-__momosunny-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/_momosunny/)
+[![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:0107sun.mei@gmail.com)
 
 <br>
   
