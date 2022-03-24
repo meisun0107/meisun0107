@@ -26,5 +26,5 @@
   
 <h1>Let's listen together 🎵</h1>
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ixh0vhwidiwcn95t394nc9gwn&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ixh0vhwidiwcn95t394nc9gwn&count=3&width=1000)
 <br/>
