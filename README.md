@@ -24,7 +24,7 @@
   
 <br>
   
-<h1>I am listening 🎵</h1>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ixh0vhwidiwcn95t394nc9gwn&cover_image=true&theme=default&bar_color=ff57a8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<h1>Let's listen together 🎵</h1>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ixh0vhwidiwcn95t394nc9gwn&cover_image=false&theme=default&bar_color_cover=true&bar_color=ff4791)](https://github.com/kittinan/spotify-github-profile)
 <br/>
