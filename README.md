@@ -21,4 +21,10 @@
  
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=meisun0107&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meisun0107&theme=dracula)](https://git.io/streak-stats) 
+  
+<br>
+  
+<h1>I am listening 🎵</h1>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ixh0vhwidiwcn95t394nc9gwn&cover_image=true&theme=default&bar_color=ff57a8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br/>
