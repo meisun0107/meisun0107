@@ -26,5 +26,5 @@
   
 <h1>Let's listen together 🎵</h1>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ixh0vhwidiwcn95t394nc9gwn&cover_image=false&theme=default&bar_color_cover=true&bar_color=ff4791)](https://github.com/kittinan/spotify-github-profile)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ixh0vhwidiwcn95t394nc9gwn&unique={true|1|on|yes})
 <br/>
