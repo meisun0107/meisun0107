@@ -6,8 +6,7 @@
 
 - 🎒 I'm a first-year graduate student.
 - 💻 I'm majoring in computer science.
-- 💚 I'm currently working on the <a href="https://github.com/gcivil-nyu-org/S2022-Team-3-repo">greenCan<a> Website project.
-- 📚 I'm currently learning HTML/CSS/JavaScript, Django, Hadoop and Spark.
+- 📚 I love Full-Stack developing.
 - 🎀 Pronouns: She/Her/Hers.
 - 🔥 Fun fact: I used to study in Sweden for 2 years.
 - 🤙 More about me: 
