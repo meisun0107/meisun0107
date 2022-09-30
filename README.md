@@ -4,7 +4,7 @@
 <br>
 <h1>About me 🙋</h1>
 
-- 🎒 I'm a first-year graduate student.
+- 🎒 I'm a second-year graduate student.
 - 💻 I'm majoring in computer science.
 - 📚 I love Full-Stack developing.
 - 🎀 Pronouns: She/Her/Hers.
